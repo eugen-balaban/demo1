@@ -1,0 +1,3 @@
+[submodule "avr"]
+	path = avr
+	url = https://github.com/jeremycole/avr.git
